@@ -10,3 +10,8 @@
 
 127.0.0.1       automotivoscristienda.com
 127.0.0.1       api.automotivoscristienda.com
+
+
+
+extensions
+https://vscode.dev/editor/profile/github/ce68389cb8153d1254108ee30cfd56ee
