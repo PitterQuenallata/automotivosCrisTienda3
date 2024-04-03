@@ -1,0 +1,12 @@
+<VirtualHost *:80>
+    DocumentRoot "C:/xampp/htdocs/automotivosCrisTienda/web"
+    ServerName automotivoscristienda.com
+</VirtualHost>
+
+<VirtualHost *:80>
+    DocumentRoot "C:/xampp/htdocs/automotivosCrisTienda/api"
+    ServerName api.automotivoscristienda.com
+</VirtualHost>
+
+127.0.0.1       automotivoscristienda.com
+127.0.0.1       api.automotivoscristienda.com
